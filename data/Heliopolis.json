@@ -1,0 +1,18 @@
+{
+    "id": 136530685,
+    "name": "Heliopolis",
+    "author": "MindCap",
+    "creators": ["Pennutoh", "Stormfly", "icedcave", "UFokinWotM8", "para", "ViperArcturus", "Spamdrew128", "matty2003", "StarkyTheSalad", "Galaxxyss", "Yoonsr", "Magpipe", "Wespdx", "Licentious"],
+    "verifier": "Solo_Creator",
+    "verification": "MindCap",
+    "percentToQualify": "46",
+    "password": "None",
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=Hld_6Bmzu8M",
+            "percent": 51,
+            "hz": 240
+        }
+    ]
+}
