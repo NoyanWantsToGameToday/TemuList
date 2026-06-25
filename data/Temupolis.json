@@ -1,0 +1,18 @@
+{
+    "id": 142696957,
+    "name": "Temupolis",
+    "author": "Umut",
+    "creators": ["Umut", "Noyan", "Rush", "Cretnox", "Tunc"],
+    "verifier": "kimse",
+    "verification": "https://youtu.be/m1COTAVWzAQ",
+    "percentToQualify": "51",
+    "password": "None",
+    "records": [
+        {
+            "user": "kimse",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
